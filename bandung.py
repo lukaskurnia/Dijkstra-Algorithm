@@ -102,4 +102,4 @@ bandung.graph = [
 
 distance,rute = bandung.Dijkstra(0)
 bandung.printAllPath(0,distance,rute)
-bandung.printPath(0,1,distance,rute)
+# bandung.printPath(0,1,distance,rute)
